@@ -5,3 +5,10 @@
 // console.log(number);
 
 console.log(42) ;
+
+/* 
+
+multi line commemnts
+
+
+*/
