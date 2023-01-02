@@ -13,11 +13,11 @@ multi line commemnts
 
 */
 /* 7 fondamentals types
-1.numbers
-2.Strings
-3.Booleans
-4.Null
-5.Undefined
-6.Symbol
-7.Object
+1.console.log(numbers)
+2.console.log("Strings")
+3.console.log(Booleans)
+4.console.log(Null)
+5.console.log(Undefined)
+6.console.log(Symbol)
+7.console.log(Object)
 */
