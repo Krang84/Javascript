@@ -11,6 +11,9 @@ var numOfSlices = 8;
 
 // let variable_name ; 
 
+let my_variable= 42;
+my_variable = 40;
+
 // 3.constantes with const
 
 const entree ='Enchiladas'
