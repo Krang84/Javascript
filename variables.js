@@ -25,7 +25,7 @@ entree='Tacos'
 
 console.log("Hello" + "javascript");
 
-// 5.String Interpolation
+// 5.String Interpolation (ES6)
 
 let myName="John Titor"
 let myCity = "Neo Tokyo"
