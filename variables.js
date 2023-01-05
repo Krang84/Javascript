@@ -24,3 +24,9 @@ entree='Tacos'
 // 4.String concatenation
 
 console.log("Hello" + "javascript");
+
+// 5.String Interpolation
+
+let myName="John Titor"
+let myCity = "Neo Tokyo"
+console.log(`My name is ${myName}. My favorite city is ${myCity}`)
