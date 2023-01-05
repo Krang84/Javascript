@@ -20,3 +20,7 @@ const entree ='Enchiladas'
 
 // TypeError : trying to reassign
 entree='Tacos'
+
+// 4.String concatenation
+
+console.log("Hello" + "javascript");
